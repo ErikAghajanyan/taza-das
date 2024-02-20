@@ -15,5 +15,5 @@ int p = 4;
 int l = 10;
 int m = 15;
 int f = 25;
-int summm = p * l / (m + f);
+p * l / (m + f);
 Console.WriteLine(summm);
